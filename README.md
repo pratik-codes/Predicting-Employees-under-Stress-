@@ -27,7 +27,7 @@
 9.  EDA(refer in the notebook all the insight of the analysis are well commented)
 10. One hot encoding of the data
 11. Standard scalling 
-!2. Applying different models.
+12. Applying different models.
 13. Using hyper parameter tunning for better accuracy.
 14. Saving the model.
 !5. ALL DONE!
