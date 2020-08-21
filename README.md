@@ -30,7 +30,7 @@
 12. Applying different models.
 13. Using hyper parameter tunning for better accuracy.
 14. Saving the model.
-!5. ALL DONE!
+15. ALL DONE(Working on Deployement. Stay tuned...)!
 
 
 REFERENCES:
